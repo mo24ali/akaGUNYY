@@ -1,6 +1,5 @@
 <p align="center">
-  <a href="https://github.com/akaGUNYY">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Mohammed-Ali Cherraoui" alt="Mohammed-Ali Cherraoui" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
