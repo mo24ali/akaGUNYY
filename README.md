@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/akaGUNYY">
-    <img src="https://user-images.githubusercontent.com/20955511/" alt="Mohammed-Ali Cherraoui" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Mohammed-Ali Cherraoui" alt="Mohammed-Ali Cherraoui" /></a>
 </p>
 
 <p align="center">
