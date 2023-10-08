@@ -23,10 +23,10 @@
 <br/>
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/MoAli2024436" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohamed_codes" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mohammed-ali-cherraoui-834533246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-en-nassibi-7922671b1/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/m_cherraoui3108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@mohamed.enn" height="30" width="40" /></a>
-<a href="https://leetcode.com/Mo24Ali/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="moenn1" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/20365329/mo-ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="moenn1" height="30" width="40" /></a>
+<a href="https://twitter.com/MoAli2024436" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akaGUNYY" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohammed-ali-cherraoui-834533246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akaGUNYY" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/m_cherraoui3108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="akaGUNYY" height="30" width="40" /></a>
+<a href="https://leetcode.com/Mo24Ali/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akaGUNYY" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/20365329/mo-ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="akaGUNYY" height="30" width="40" /></a>
 </p>
 
