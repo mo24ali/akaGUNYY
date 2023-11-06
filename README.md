@@ -1,6 +1,7 @@
 <p align="center" >
   <a href="">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000000000&color=F75C7E&center=true&vCenter=true&width=435&lines=Mohammed-ali+Cherraoui" alt="Typing SVG" /></a>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=akaGUNYY&label=Profile%20views&color=0e75b6&style=flat" alt="akaGUNYY" /> </p>
 </p>
 
 <p align="center">
