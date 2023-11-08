@@ -1,7 +1,14 @@
 <p align="center" >
   <a href="">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000000000&color=F75C7E&center=true&vCenter=true&width=435&lines=Mohammed-ali+Cherraoui" alt="Typing SVG" /></a>
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=akaGUNYY&label=Profile%20views&color=0e75b6&style=flat" alt="akaGUNYY" /> </p>
+ <p align="center">
+  <a href="https://github.com/akaGUNYY?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/akaGUNYY?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/akaGUNYY?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/akaGUNYY?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/akaGUNYY/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/akaGUNYY-profile-views"/></a>
+</p>
 </p>
 
 <p align="center">
